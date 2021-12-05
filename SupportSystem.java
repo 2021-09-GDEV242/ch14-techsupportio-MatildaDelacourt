@@ -11,8 +11,8 @@ import java.util.HashSet;
  * It contains a loop that repeatedly reads input and generates
  * output until the users wants to leave.
  * 
- * @author David J. Barnes and Michael Kölling.
- * @version 2016.02.29
+ * @author Matilda Delacourt
+ * @version 12/05/2021
  */
 public class SupportSystem
 {
